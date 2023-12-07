@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alex-macbook
-- 👀 I’m interested in web programming and game-dev
+- 👀 I’m interested in web programming, game-dev and of course 3d blender modelling 
 - 🌱 I’m currently learning Java script(mostly) and C#
 - 💞️ What should i write here?
 - 📫 How to reach me just text me under my projects ._.
