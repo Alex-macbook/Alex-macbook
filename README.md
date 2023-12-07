@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alex-macbook
 - 👀 I’m interested in web programming and game-dev
 - 🌱 I’m currently learning Java script(mostly) and C#
-- 💞️ I’m looking to collaborate on 
+- 💞️ What should i write here?
 - 📫 How to reach me just text me under my projects ._.
 
 <!---
